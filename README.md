@@ -5,6 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-portela&include_all_commits=true&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Eduardo-Portela&theme=dark)](https://git.io/streak-stats)
 
 <div style="display: inline_block"><br>
    <h2> Most used languages<h1>
@@ -15,6 +16,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-macaco.gif">
 </div>
+      
+
 
 <div> 
   <a href="https://www.instagram.com/eduardo_juniorpg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
