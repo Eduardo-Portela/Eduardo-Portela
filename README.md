@@ -1,23 +1,13 @@
 ### Hi there! I'm Eduardo Portela!!! 👋
 
-<!--
-**Eduardo-Portela/Eduardo-Portela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on -> Kenzie Academy Brazil
+- 🌱 I’m currently learning about -> NodeJS and back-end languages
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-portela&include_all_commits=true&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Portela&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
-   <h1> Most used languages<h1>
+   <h2> Most used languages<h1>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,3 +23,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/eduardo-portela-aa9609241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+      
