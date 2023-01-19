@@ -24,4 +24,4 @@
   
 </div>
 
-![Snake Animation](https://github.com/eduardo-portela/eduardo-portela/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Eduardo-portela/Eduardo-portela/blob/output/github-contribution-grid-snake.svg)
