@@ -24,4 +24,4 @@
   
 </div>
 
-      
+      ![snake gif](https://github.com/Eduardo-Portela/Eduardo-Portela/blob/output/github-contribution-grid-snake.svg)
