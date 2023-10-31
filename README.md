@@ -1,7 +1,6 @@
 ### Hi there! I'm Eduardo Portela!!! 👋
 
-- 🔭 I’m currently working on -> Kenzie Academy Brazil
-- 🌱 I’m currently learning about -> Python, mongoDB
+- 🌱 I’m currently learning about -> Java
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-portela&include_all_commits=false&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
